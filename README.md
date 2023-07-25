@@ -34,7 +34,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- [ ] **[User_can_check_so,e_projects]**
+- [ ] **[User_can_check_some_projects]**
 - [ ] **[User_can_send_an_email_to_my_email_account]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -86,9 +86,7 @@ To run the project, execute the following command:
 
 To test the project, execute the following command:
 
-```sh
-  rspec
-```
+[under construction]
 
 ## 👥 Authors <a name="authors"></a>
 
