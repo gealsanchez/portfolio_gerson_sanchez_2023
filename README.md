@@ -41,7 +41,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Under construction]
+- [Live Demo](https://portfolio-gerson-sanchez-2023--soft-syrniki-c02acd.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
