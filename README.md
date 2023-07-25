@@ -17,7 +17,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 <a name="about-project">Budget_App</a>
+# 📖 <a name="about-project">Portfolio App</a>
 
 **[Portfolio]** is a mobile web application with Responsive Web Design which contains information About Me, All of My Works, and a Contact Form. Built with React & Bootstrap.
 
