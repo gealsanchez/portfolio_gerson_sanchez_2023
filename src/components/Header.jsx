@@ -85,7 +85,7 @@ const Header = () => {
               className="mb-3"
               controlId="exampleForm.ControlTextarea1"
             >
-              <Form.Label>Subject</Form.Label>
+              <Form.Label>Message</Form.Label>
               <Form.Control as="textarea" rows={3} />
             </Form.Group>
           </Form>

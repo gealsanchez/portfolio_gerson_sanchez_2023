@@ -1,8 +1,7 @@
-/* eslint-disable import/prefer-default-export */
 import Dropdown from 'react-bootstrap/Dropdown';
 import DropdownButton from 'react-bootstrap/DropdownButton';
 import ButtonGroup from 'react-bootstrap/ButtonGroup';
-import IconBox from './IconBox';
+import About from './About';
 import '../styles/home.css';
 
 const Home = () => (
@@ -137,7 +136,7 @@ const Home = () => (
         </Dropdown.Item>
       </DropdownButton>
     </div>
-    <IconBox />
+    <About />
   </>
 );
 

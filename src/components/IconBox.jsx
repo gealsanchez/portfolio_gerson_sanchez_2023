@@ -1,4 +1,3 @@
-/* eslint-disable import/prefer-default-export */
 import linkedin from '../images/linkedin.svg';
 import github from '../images/github.svg';
 import twitter from '../images/twitter.svg';

@@ -1,4 +1,3 @@
-/* eslint-disable import/prefer-default-export */
 import Carousel from 'react-bootstrap/Carousel';
 import Button from 'react-bootstrap/Button';
 import metrics from '../images/metrics.png';
@@ -92,9 +91,21 @@ const ProductList = () => {
   ));
 
   return (
-    <Carousel style={{ margin: '3% 10%' }}>
-      {list}
-    </Carousel>
+    <>
+      <Carousel style={{ margin: '3% 10%' }}>
+        {list}
+      </Carousel>
+      <h6
+        style={{
+          margin: '0% 20%',
+          fontWeight: 'bolder',
+        }}
+      >
+        Have a project you need coded?
+        do not hesitate and contact me
+        gealsanchez@gmail.com
+      </h6>
+    </>
   );
 };
 

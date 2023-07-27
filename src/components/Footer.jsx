@@ -1,7 +1,7 @@
 import IconBar from './IconBar';
 
 const Footer = () => (
-  <footer className="fixed-bottom m-4">
+  <footer className="fixed-bottom m-2">
     <IconBar />
   </footer>
 );
